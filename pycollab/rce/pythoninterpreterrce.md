@@ -11,4 +11,6 @@ then i just edited myself to become admin
 
 yay boom done free rce
 
+his server code also had 74 comments in perfect punctuation, and he said he never vibecoded it. (yea right)
+
 then he changed to emscripten and pyodide and im fried
