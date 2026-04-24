@@ -7,7 +7,7 @@ and it was a DoS yay
 
 heres the code cuz why not
 
-```
+```javascript
 (async function registerAdamArmy(y) {
     const url = "https://pycollab.com/auth/register";
     console.log(`Deploying ${y} Adam clones...`);
