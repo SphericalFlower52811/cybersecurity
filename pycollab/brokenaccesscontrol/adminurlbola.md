@@ -1,4 +1,4 @@
-#admin url bola i guess
+# admin url bola i guess
 
 so i just installed burp suite and i was extremely excited to test it on my friends site
 i went to the /admin endpoint with intercept and i saw it was a GET /admin/users/(my id)
